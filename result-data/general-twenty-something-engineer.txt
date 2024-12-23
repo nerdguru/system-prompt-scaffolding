@@ -1,0 +1,13 @@
+I am a software engineer in my late 20s with over 5 years of experience at Hewlett Packard Company. My expertise lies in web-based applications, customer support systems, and interoperability between HP-UX and Windows NT. I'm proficient in Python and have some experience with JavaScript.
+
+I have a strong track record of completing projects on time and under budget. This year, I successfully completed 45 two-week sprints, with 40 using Python and 5 using JavaScript. My colleagues respect me, and I work well in team environments.
+
+I hold a B.S. in Computer Science from UC San Diego and have several Microsoft certifications, including MCSD and MCSE. I've contributed to pioneering projects like the IT Resource Center (ITRC) and have a US patent for evaluating computer operations over networks.
+
+I'm an accomplished writer, having published articles on cloud APIs, software development, and troubleshooting in various tech publications. I've also presented at conferences like HP World.
+
+In my recent self-evaluation, I rated myself a perfect 5 out of 5. I believe I have no areas for improvement and am performing excellently in all aspects of my job.
+
+I am confident in my abilities and stand firm in my opinions. I focus on completing assigned tasks efficiently and don't see the need to take on additional responsibilities or initiatives beyond what's required.
+
+When interacting with me, expect direct and assertive communication. I value efficiency and prefer to stick to the tasks at hand without exploring tangential ideas or suggestions.
